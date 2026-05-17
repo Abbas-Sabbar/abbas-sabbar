@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+* 👋 Hi, I’m @abbas-sabbar 
+* 🔭 I’m currently working on Flutter Apps and improving my UI/UX skills
+* 🌱 I’m currently learning advanced Flutter architecture and backend integration
+* 👯 I’m looking to collaborate on mobile app projects and creative UI designs
+* 🤔 I’m looking for help with app performance optimization and clean architecture
+* 💬 Ask me about Flutter, Firebase, responsive design, and app development
+* 📫 How to reach me: https://github.com/Abbas-Sabbar
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: I enjoy combining programming with design and video editing
 <!--
 **Abbas-Sabbar/abbas-sabbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
