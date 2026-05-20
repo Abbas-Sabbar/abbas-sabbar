@@ -6,7 +6,7 @@
 * 👯 I’m looking to collaborate on mobile app projects and creative UI designs
 * 🤔 I’m looking for help with app performance optimization and clean architecture
 * 💬 Ask me about Flutter, Firebase, responsive design, and app development
-* 📫 How to reach me: https://github.com/Abbas-Sabbar
+* 📫 How to reach me: https://abbassabbar.netlify.app/
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I enjoy combining programming with design and video editing
 <!--
